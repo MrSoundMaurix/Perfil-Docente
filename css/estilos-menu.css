@@ -1,20 +1,39 @@
-.posicion-nav{
-margin-right:10%;
+body {
+  background-color: #86caf1;
 
 }
-.navbar-dark .navbar-nav .nav-link:hover{
-color: #000;
- background-color:rgb(68, 171, 255);
-}
-.navbar-dark .navbar-nav .nav-link{
-        color: #fff;
 
-}
-.active{
-  background-color:rgb(68, 171, 255);   
-}
-a.hov-green:hover{
-    background-color:  rgb(24, 223, 147);
+.posicion-nav {
+  margin-right: 10%;
+
 }
 
 
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #000;
+  background-color: rgb(68, 171, 255);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+
+}
+
+.label-color {
+  color: #fff;
+
+  padding: 0;
+}
+
+.classe-nav {
+  margin-left: 200px;
+
+}
+
+.active {
+  background-color: rgb(68, 171, 255);
+}
+
+a.hov-green:hover {
+  background-color: rgb(24, 223, 147);
+}
